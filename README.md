@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/IUNycHoVqvLDowiiam/giphy.gif" width="180"/>
+  <img src="https://media.giphy.com/media/IUNycHoVqvLDowiiam/giphy.gif" width="200"/>
 </div>
 
 ### Somethings about me 
@@ -11,6 +11,7 @@ MySQL and Redshift for the datawarehouse part.
 
 My principal coding language is Python with some data releated library like Pyspark and Pandas.
 GitHub for version control and collaboration with my team and Terraform as a IaC.
+
 
 ### Languages and Tools
 
@@ -30,6 +31,47 @@ GitHub for version control and collaboration with my team and Terraform as a IaC
 <img src="https://komarev.com/ghpvc/?username=michele-porta&style=flat-square&color=blue" alt=""/>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=michele-porta&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+### Main Project
+
+* Vetrina optimization
+  * 10 times faster switching ordering operations from sparklyR to CTE on AWS Athena
+
+* Iceberg implementation
+  * Studying and implement iceberg open format table to bring ACID in datalake table
+
+* Slack bot per on-call
+  * Create AWS SNS Topic with filter subscription used to send job alarms on slack channel
+
+* Airflow mwaa exploration
+  * Introduce Airflow in our infrastructure to monitor and orchestrate flows
+
+* Abtest Apptimize
+  * Download and interaction with Apptimize provider for new functionality in marketplace app
+
+* Trackings for new app/web development
+  * Daily support to Ios, Android and web Dev to develop app/website trackings
+
+* Interaction with Google Analytics API
+  * Automatically download and creation table  on Athena for GA data
+
+* MTU (monthly tracked user)
+  * Glue job in order to calculate MTU KPI every month
+
+* Data quality with PyDeequ
+  * Using pydeequ framework to done data quality check with SQL on dataframe
+
+* Optimization and maintenance of existing flows
+  * Monitoring and analyze performance and bug in production jobs
+
+* Python ETL (GLUE)
+  * Daily Python development of the ETL jobs required with AWS Glue
+
+* ETL Datawarehouse with Pentaho
+  * Minor changes in existing Datawarehouse flows develop with Pentaho Tool.
+
+* Generative AI (chatGPT API) 
+  * 2023 Hackathlon using chatGPT API and company data
 
 ### My Social
 <div id="badges">
